@@ -37,8 +37,5 @@ char gerarNumero(){
 }
 
 char numValidador(char identificador[10]){
-    int num = 1;
-    char numC = num+'0';
-    switch()
-    return numC;
+    // write here the code
 }
